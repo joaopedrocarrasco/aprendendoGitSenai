@@ -3,17 +3,17 @@ neste repositório aprenderei a utilizar os comandos básico do Github, assim co
 
 ## Comandos básicos utilizado no git
 ### Repositório remoto
-- item 1
-- item 2
-- item 3
+- **git pull-u origin main** *utilizado para enviar o arquivo para a nuvem*
+-**git remote add** Centraliza seu código-fonte para os outros projetos.
+- git config --global user.name
 
 ### Repositório local
-- item 1 
-- item 2 
-- item 3
+- **git add**: *adiciona uma mudança no diretório de trabalho à área de teste*
+- **git init**: é usado para iniciar o git
+< **git commit -m** *O git commit -m define apenas o commit das modificações que estão previamente adicionadas na sua árvore* 
 
 ### Branchas 
-- item 1 
+- **git branch -M main** *ele muda as configurações padrão de master para main*
 - item 2 
 - item 3
 
